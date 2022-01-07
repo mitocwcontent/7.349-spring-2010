@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ]
+  ],
+  "legacy_uid": "5b267b54-1326-e537-9472-11b6861cc406",
+  "instructors": {
+    "content": [
+      "9c6b4293-5ea5-250b-a3d0-7765b90de0b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8cdf16cf-6bd0-71df-d322-bdbe6739146a",
+    "website": "7-349-from-molecules-to-behavior-synaptic-neurophysiology-spring-2010"
+  },
+  "course_title": "From Molecules to Behavior:  Synaptic Neurophysiology",
+  "course_description": "Like transistors in a computer, synapses perform complex computations and connect the brain's non-linear processing elements (neurons) into a functional circuit. Understanding the role of synapses in neuronal computation is essential to understanding how the brain works. In this course students will be introduced to cutting-edge research in the field of synaptic neurophysiology. The course will cover such topics as synapse formation, synaptic function, synaptic plasticity, the roles of synapses in higher cognitive processes and how synaptic dysfunction can lead to disease.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.349",
+  "course_image_thumbnail": {
+    "content": "563b6fdc-dbe3-fb3e-1bdc-f14dafb654cd",
+    "website": "7-349-from-molecules-to-behavior-synaptic-neurophysiology-spring-2010"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e5dcee64-47ce-40c1-abf3-28b31d5a1378",
+  "title": "Course Metadata"
+}
